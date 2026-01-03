@@ -4,4 +4,4 @@
   :author "Bryce MacInnis"
   :depends-on ("py4cl")
   :components ((:file "package")
-               (:file "main"))
+               (:file "main")))
